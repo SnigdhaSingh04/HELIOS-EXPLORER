@@ -6,6 +6,7 @@ This project was made in a team of 4 people including me. Other team members wer
 We have used the tools like Unity and C# Scripting Programming Language and few uses of Audio Mixer Software.
 
 This project was made in just 5 days so there is large scope of improvement.
+This project dig in the deep insights of how Nasa’s one of the most eminent satellite PARKER SOLAR PROBE takes a journey around the sun to witness some amazing facts. You will get to know trajectory PSP is going to follow and what are its application. This app is highly engaging and user interactive. The technology used is virtual reality . It also explains the significance of  venus’ gravitational field strength in the process of reaching around sun.. The visualization can easily make a layman understand of what is happening in one of the most complex missions of all  times.
 
 If anyone desires to help and contribute in the project for better user experience, he/she is welcomed anytime by us!
 
